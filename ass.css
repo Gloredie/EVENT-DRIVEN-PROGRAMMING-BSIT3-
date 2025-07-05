@@ -1,0 +1,7 @@
+#redBox{
+  height: 300px;
+  width: 300px;
+  color: red;
+  background-color: grey;
+  display: flex;
+}
